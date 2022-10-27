@@ -2,4 +2,4 @@
 
 first tutorial
 
-seocnd tutorial
+second tutorial
